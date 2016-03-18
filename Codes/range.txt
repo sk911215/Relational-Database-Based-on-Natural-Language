@@ -1,0 +1,1 @@
+big small large high low between bigger smaller larger higher lower equal > < >= <= = != inequal above below not range
